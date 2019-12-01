@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on Archer Zou</title>
+    <link>https://kevinapple.github.io/tags/react/</link>
+    <description>Recent content in react on Archer Zou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2019 12:27:38 +0600</lastBuildDate>
+    
+	<atom:link href="https://kevinapple.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to setup React.js on Windows</title>
+      <link>https://kevinapple.github.io/blog/how-to-setup-react.js-on-windows/</link>
+      <pubDate>Mon, 15 Jul 2019 12:27:38 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/blog/how-to-setup-react.js-on-windows/</guid>
+      <description>Since you are going to use JavaScript for your React development on Windows, there is no way around Node.js and NPM. Node.js is a JavaScript runtime which makes it possible to run JavaScript outside of the browser. The underlying node package manager (NPM) is used to install libraries, such as React.js, to your project on the command line. You will see later on how this works out on the command line for Windows users.</description>
+    </item>
+    
+  </channel>
+</rss>

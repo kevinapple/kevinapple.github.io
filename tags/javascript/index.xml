@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Archer Zou</title>
+    <link>https://kevinapple.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on Archer Zou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
+    
+	<atom:link href="https://kevinapple.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My development setup as a JavaScript web developer</title>
+      <link>https://kevinapple.github.io/blog/javascript-web-developer/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/blog/javascript-web-developer/</guid>
+      <description>This concise cheatsheet will give you an overview on how to setup your development environment as a web developer. It was created for MacOS developers. However, you can substitute the instructions and tools for Windows and Linux as well. So don&#39;t give up yet if you are not a MacOS user. After all, setting up your development environment all by yourself is your first challenge as a striving web developer these days.</description>
+    </item>
+    
+  </channel>
+</rss>

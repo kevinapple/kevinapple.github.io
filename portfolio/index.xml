@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Archer Zou</title>
+    <link>https://kevinapple.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Archer Zou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2019 16:59:54 +0600</lastBuildDate>
+    
+	<atom:link href="https://kevinapple.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E-commerce app</title>
+      <link>https://kevinapple.github.io/portfolio/e-commerce/</link>
+      <pubDate>Fri, 20 Sep 2019 16:59:54 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/portfolio/e-commerce/</guid>
+      <description>Clothing Shop Build a massive E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase.
+Using the latest version of React: 16.10+ and 16.8+, this course is focused on efficiency. Never spend time on confusing, out of date, incomplete tutorials anymore.</description>
+    </item>
+    
+    <item>
+      <title>Color Selection</title>
+      <link>https://kevinapple.github.io/portfolio/color-selection/</link>
+      <pubDate>Tue, 20 Aug 2019 16:58:55 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/portfolio/color-selection/</guid>
+      <description>Color Selection Build one massive capstone application, complete with drag &amp;amp; drop, animations, route transitions, complex form validations, and more.
+Learn state management using the useContext and useReducer hooks, to mimic some of the functionality of Redux.</description>
+    </item>
+    
+    <item>
+      <title>Reading books</title>
+      <link>https://kevinapple.github.io/portfolio/reading/</link>
+      <pubDate>Wed, 24 Jul 2019 16:56:54 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/portfolio/reading/</guid>
+      <description>Reading books Even though I do a lot of programming in my professional and spare time, there are other things I treasure too. I am an avid reader, but I’m always struggling to memorize my learnings. I guess, that&#39;s why I started to write down my notes of books I enjoyed to read. But it&#39;s difficult to keep up with all the books.</description>
+    </item>
+    
+    <item>
+      <title>Hangman Solution</title>
+      <link>https://kevinapple.github.io/portfolio/hangman-solution/</link>
+      <pubDate>Sun, 12 May 2019 16:53:54 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/portfolio/hangman-solution/</guid>
+      <description>Hangman Solution English word puzzle.</description>
+    </item>
+    
+    <item>
+      <title>Lights Out</title>
+      <link>https://kevinapple.github.io/portfolio/lights-out/</link>
+      <pubDate>Sun, 25 Nov 2018 16:54:54 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/portfolio/lights-out/</guid>
+      <description>Lights Out A little game to relax.</description>
+    </item>
+    
+    <item>
+      <title>Cat Case</title>
+      <link>https://kevinapple.github.io/portfolio/cat-case/</link>
+      <pubDate>Mon, 20 Nov 2017 16:57:54 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/portfolio/cat-case/</guid>
+      <description>Cat Case Find the True Love of Your Cat&#39;s Life Today.</description>
+    </item>
+    
+  </channel>
+</rss>

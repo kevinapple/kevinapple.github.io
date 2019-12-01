@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Archer Zou</title>
+    <link>https://kevinapple.github.io/tags/</link>
+    <description>Recent content in Tags on Archer Zou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jul 2019 12:27:38 +0600</lastBuildDate>
+    
+	<atom:link href="https://kevinapple.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>react</title>
+      <link>https://kevinapple.github.io/tags/react/</link>
+      <pubDate>Mon, 15 Jul 2019 12:27:38 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://kevinapple.github.io/tags/tech/</link>
+      <pubDate>Mon, 15 Jul 2019 12:27:38 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspiration</title>
+      <link>https://kevinapple.github.io/tags/inspiration/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://kevinapple.github.io/tags/javascript/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>https://kevinapple.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
